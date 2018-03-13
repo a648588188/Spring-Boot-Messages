@@ -1,1 +1,1 @@
-# ActiveMQ JMS Messages without using JmsTemplate
+# ActiveMQ JMS Messages with JMS API

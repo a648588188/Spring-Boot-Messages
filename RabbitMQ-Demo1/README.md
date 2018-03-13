@@ -1,1 +1,1 @@
-# RabbitMQ For AMQP without Spring's Template Support
+## RabbitMQ For AMQP without Spring's Template Support

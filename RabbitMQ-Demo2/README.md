@@ -1,0 +1,1 @@
+## RabbitMQ For AMQP with Spring's Template Support
